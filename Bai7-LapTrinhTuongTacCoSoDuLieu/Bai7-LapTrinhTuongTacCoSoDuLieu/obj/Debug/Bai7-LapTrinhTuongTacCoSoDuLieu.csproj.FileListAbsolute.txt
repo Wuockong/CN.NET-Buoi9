@@ -1,0 +1,11 @@
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\bin\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.exe.config
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\bin\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.exe
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\bin\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.pdb
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.csproj.AssemblyReference.cache
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7_LapTrinhTuongTacCoSoDuLieu.Properties.Resources.resources
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.csproj.GenerateResource.cache
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.csproj.CoreCompileInputs.cache
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.exe
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7-LapTrinhTuongTacCoSoDuLieu.pdb
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7_LapTrinhTuongTacCoSoDuLieu.KetNoi.resources
+D:\Học\NET Thiếu Nhi\CN.NET-Buoi9\Bai7-LapTrinhTuongTacCoSoDuLieu\Bai7-LapTrinhTuongTacCoSoDuLieu\obj\Debug\Bai7_LapTrinhTuongTacCoSoDuLieu.KetNoi2.resources
